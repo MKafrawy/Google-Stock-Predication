@@ -51,10 +51,11 @@ Feel free to explore the notebook and provide feedback! Your suggestions are alw
 ### Screenshots:
 
 #### 1. Price Trends:
-![Price Trends](./images/price_trends.png)
+![Price Trend](https://github.com/user-attachments/assets/3c63f049-b2db-4235-ad2e-04254be57cc3)
+
 
 #### 2. Predictions vs. Actuals:
-![Predictions vs Actuals](./images/predictions_vs_actuals.png)
+![Predictions vs Actuals]
 
 ---
 
