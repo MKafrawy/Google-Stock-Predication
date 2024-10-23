@@ -55,10 +55,8 @@ Feel free to explore the notebook and provide feedback! Your suggestions are alw
 
 
 #### 2. Predictions vs. Actuals:
-![Predictions vs Actuals]
+![Actual VS Predict](https://github.com/user-attachments/assets/b5a26c60-97bf-445c-9bdb-2ab14bda16e2)
 
----
 
-## License:
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
 
