@@ -18,7 +18,7 @@ Welcome to my **Google Stock Prediction** project! This project uses historical 
 - **scikit-learn**: For building and evaluating machine learning models.
 - **TensorFlow/Keras**: For constructing the LSTM model for time series prediction.
 - **Matplotlib & Seaborn**: For creating visualizations of the data and predictions.
-- **yfinance**: To retrieve stock price data from Yahoo Finance.
+
 
 ## Models Implemented:
 - **Linear Regression**: For basic stock price prediction.
